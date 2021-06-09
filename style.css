@@ -1,0 +1,92 @@
+body{
+
+
+    padding: 20px;
+    margin: 30px;
+    
+    color: black;
+    
+    border-radius: 2px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    letter-spacing: 0.9px;
+    background-image: url(data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBw0ICAcIDQ0PBwcIBw0HBwcHDQ8IDQcNFREWFhURExMYHSggGBolJx8fITEhJSkrLi4uFx8zODMsNygtLisBCgoKDQ0NDg0NDysZFRkrNzcrLTcrKysrKysrNzctLSsrKy03KysrLSsrKzcrKysrKysrKysrKysrKysrKysrK//AABEIALEBHAMBIgACEQEDEQH/xAAZAAADAQEBAAAAAAAAAAAAAAAAAQIDBAb/xAAcEAEBAQEBAQEBAQAAAAAAAAAAEQESAhMDQVH/xAAXAQEBAQEAAAAAAAAAAAAAAAAAAQID/8QAFREBAQAAAAAAAAAAAAAAAAAAABH/2gAMAwEAAhEDEQA/APb8jlvwOHeuTDkct+BwUYcjlvwOCjDkct+BwUYcjlvwOCjDk+G+eDzwUYcHw6M/NWfmUc2fmfzdXzP5pSOX5j5uv5jgpHJ8x83XwXzKRyfMt8Ov5l8ykcfBcOvfzTv5rSObguXRvguCjDkct+BwUYcjlvwOCjDkct+BwVGHI5b8DgqsORy34HBRtyOWsERWXI5awQGXI5awoDPkctIeYgy4VnhrnlWeQZZ4VnhrnlWeSjLPCuGuYIis+By1ggMuRy1ggMuRy1ggMuS5bQoDHfCd8OiFuA5t8J3w6d8p3ytRzb4Ll0b5TvkGPI5awRRlyOWkEBnyOWkEBnyOWkOAqCLgiCIIuCAiCLggIh5isxWYBZis8qzyrMRU5iocOAmCKggJgioATBFQQEwRUEBMEVBATBFCAiJ3GsLcBjuJ3G24jcBlCjTcKKiIIuCAiCLggIgi4IBhUOIqSXBAQcVBALMVmHmLzALMVDzDiKmCKggJhw4cBMEXyfIIgi+T5BnBGnJcgzgi98lARBFwoCYIqCAjcTuNYncVGO4mNdxO4CAqCAkKggINUEBUEOHATBFQQEw8w4cAZiswZisxFEBnAScOHmIFmKzDzFQEw4cMEhQBIigCIW4sQGe4mNdxO4CCXCiiYW4uFuAz3EbjXcTuCM4IrcEUTBFQQEwRUEBQVBEVMEVBATDzDhwBmKzBiswChw4MxFEVmDMVAKBUEBIVBASFQQEhUEBIVBASNxUKAjcTuNNxO4CINxULcERuJ3Gm4ncUZ7gVuCAkKggJgioICoIqCIJgioICYZw8wBmKwsxWAIeA8FGKGGBAwBAwBAwBAwBAwBAwCdwtxadBG4UXuECNxOr3E7giIIqCAmCKggJgioICoIqHARBFwQEQ4qCAUMHgoVmA8A8wQ8wRAoIcEAoIcEAoIcEAoIcEAoIcEAoIcEAi3FQoCNKL3E6onUxZQEQRcEERBFwQEQRcEBUEVBBUwRUEBMEVBATDhwADwQ8AwMUgkKggJCoICTOCAkKggJM4IBA4ICS1RAnUrIEQRUEUTBFQQEwRUEBMEVBAT9cH0xy9jsiV1fTB9McvY7IV1fTB9McvY7Itdf0wfTHJ2OyFdefph/THJ2fZCuzPeH3jkz9F57IOnodMM9n0g26HTLodA16HTLodA16HTLodA16HTLodA16HTHot9g231id94w32nfawdHeDvHN2XZB094O8c/Y7IOnvB3jm7HZB094O8c3Y7IOnvB3jm7HZBydjtzfQfRtiunsdub6D6BXT2O3N9D+iDo7Hbn+g+gro7Ptzdjsg6s/Rfn9HH2efoQd3n9FZ7cWfovP0SFdnZ9uXP0PP0ItdPQ6c/Y7CujodOfsdhXR2W+3Pv6J39CFdG/ojf0c+/ojf0WJXRv6F9HNv6DshXR2O3P2OyFdHY7c/Y7B0dn25+x2FdHY7c/Y7IOjsdufsdg4QA0yeAADAAAGAH+gAU8AAK8rwBBpiwEDwwBQQAFv9T6IAjU7/AEBUIAKGAAAAAABA8AAAAKP/2Q==);
+    background-size: cover;
+    background-position: center;
+}
+#login{
+    position: relative;
+    box-shadow: lightskyblue;
+    width: 382px;  
+    overflow: hidden;  
+    margin: auto;  
+    margin: 20 0 0 450px;  
+    padding: 80px;  
+    background: #23463f;  
+    border-radius: 15px ;
+}
+#child{
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    margin: 20px;
+    padding: auto;
+}
+#child2{
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    margin: 20px;
+    padding: auto;
+}
+#UsernameID{
+    width: 50%;
+    height: 30px;
+}
+#PasswordID{
+    width: 50%;
+    height: 30px;
+}
+#Pagename{
+    background-color:black;
+    color: white;
+    padding: 90px;
+    font-size: 70px;
+    font-family: fantasy
+}
+h1{
+    background-color:black;
+    color:wheat;
+    padding: 50px;
+    font-size: 50px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+h1 image{
+    margin:auto
+    
+
+}
+a{
+    color: black;
+}
+.travel{
+    float: right;
+}
+table{
+    color:black;
+    background-color:lightslategray;
+    margin-left: auto;
+    margin-right: auto;
+}
+button{
+    background-color: bisque;
+    color: gray;
+    width: 170px;
+    height: 40px;
+    border-radius: 20px;
+}
+button :hover{
+    background-color: coral;
+}
+button :focus{
+    background-color: darkslategray;
+}
