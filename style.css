@@ -15,14 +15,15 @@ body{
 }
 #login{
     position: relative;
-    box-shadow: lightskyblue;
+    box-shadow: rgb(202, 216, 224);
     width: 382px;  
     overflow: hidden;  
     margin: auto;  
     margin: 20 0 0 450px;  
     padding: 80px;  
-    background: #23463f;  
+    background: #64a598;  
     border-radius: 15px ;
+    
 }
 #child{
     position: absolute;
@@ -73,9 +74,10 @@ a{
 }
 table{
     color:black;
-    background-color:lightslategray;
+    background-color:rgb(161, 203, 245);
     margin-left: auto;
     margin-right: auto;
+    border-color: rgb(189, 202, 212);
 }
 button{
     background-color: bisque;
@@ -85,8 +87,12 @@ button{
     border-radius: 20px;
 }
 button :hover{
-    background-color: coral;
+    background-color: rgb(233, 182, 164);
 }
 button :focus{
-    background-color: darkslategray;
+    background-color: rgb(27, 82, 82);
+}
+.CS{
+    background-color: rgb(97, 89, 89);
+    font-family: cursive;
 }
